@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: gray;
+}
+p, ul {
+    font-size: 18px;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+}
+
+.ps, .pc {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color:#FFFFFF;
+}
+
+h2, h1 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.conteudo {
+    width: 800px;
+    height: 1300px;
+    background-color: #FFFFFF;
+    position: relative;
+    margin: auto;
+}
+
+.coluna {
+    width: 250px;
+    height: 1300px;
+    background-color: #19304F;
+    color: #FFFFFF;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.icons {
+    width: 40px;
+}
+
+p.ps {
+    border-bottom: 1.5px solid #FFFFFF;
+    width: 100px;
+}
+
+#info {
+    margin: 15%;
+    margin-top: 50%;
+}
+
+#conhecimentos {
+    margin: 15%;
+    margin-top: 50%;
+}
+
+#cabeca {
+    color: #19304F;
+    position: absolute;
+    left: 180px;
+    top: 100px;
+    line-height: 7px;
+}
+
+#perfil {
+    border-radius: 50%;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+#espaco {
+    letter-spacing: px;
+}
+
+.tcolor {
+    color: #19304F;
+}
+
+.tamanho {
+    max-width: 60%;
+    margin-left: 5%;
+    margin-top: 45px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    margin-left: 25%;
+}
